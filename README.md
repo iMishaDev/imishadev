@@ -5,7 +5,8 @@
 
 <p align="center">   
   <a href="mailto:imishadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.linkedin.com/in/imishadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
+  <a href="https://www.linkedin.com/in/imishadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
+ <a href="https://twitter.com/imishadev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a> 
 </p>
 
 
