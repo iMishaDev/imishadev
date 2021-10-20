@@ -20,16 +20,18 @@
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Misha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iMishaDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/></a>
-    <a href="#"><img alt="Misha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMishaDev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/></a>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+    <img alt="Misha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iMishaDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+    <img alt="Misha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMishaDev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+   
   </div>
-
+<div>
+  <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+ </div>
   <hr/>
 
   <div>
-    <a href="#"><img alt="Misha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iMishaDev&custom_title=Mashael's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+  <img alt="Misha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iMishaDev&custom_title=Mashael's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" />
   <div> 
 </div>
 
