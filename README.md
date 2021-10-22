@@ -20,8 +20,8 @@
 <diV>
 
   <div align="center">
-    <img alt="Misha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iMishaDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
-    <img alt="Misha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMishaDev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+    <img alt="Misha's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=iMishaDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+    <img alt="Misha's Top Languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMishaDev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
    
   </div>
 <div>
